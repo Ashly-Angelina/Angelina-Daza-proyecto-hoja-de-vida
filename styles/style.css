@@ -5,24 +5,16 @@
 }
 
 header {
-    width: 100%;
-    height: 30rem;
-    padding-left: 10px;
-    padding: 10px ;
-    background-color: #F7C9EE;
-    
+    display: flex;
+    background-color: pink;
+    text-align: center;
+    padding-left: 1rem;
+    padding-top: 1rem;
 }
-
-.section {
-    padding: 20px;
-    overflow: hidden;
+.name{
+    font-size: 20px;
 }
-
-.img1 {
-    width: 20%;
-    height: 20rem;
-}
-
-h2 {
-    color: #9465B9;
+.img1{
+    width: 10rem;
+    height: 10rem;
 }
