@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    width: 100%;
+    height: 30rem;
+    padding-left: 10px;
+    padding: 10px ;
+    background-color: #F7C9EE;
+    
+}
+
+.section {
+    padding: 20px;
+    overflow: hidden;
+}
+
+.img1 {
+    width: 20%;
+    height: 20rem;
+}
+
+h2 {
+    color: #9465B9;
+}
