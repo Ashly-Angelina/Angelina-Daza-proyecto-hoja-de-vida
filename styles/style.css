@@ -3,7 +3,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 header {
     display: flex;
     background-color: pink;
@@ -18,3 +17,56 @@ header {
     width: 10rem;
     height: 10rem;
 }
+.description{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.title1{
+    padding-bottom: 5px;
+    padding-top: 5px;
+    text-align: center;
+}
+hr{
+    height: 0.2rem;
+    color: pink;
+    background-color: pink;
+}
+.icons{
+    height: 8rem;
+    width: 8rem;
+    border-radius: 1rem;
+}
+.card-info1{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+.card{
+    border: solid;
+    border-radius: 1rem;
+    margin-top: 1rem;
+    display: flex;
+    background-color: pink;
+}
+.card-content{
+    text-align: center;
+    padding-top: 5px;
+    padding-left: 10px;
+}
+.title2{
+    margin-top: 1rem;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    text-align: center;
+}
+.referencias{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #c254b9;
+    padding: 10px;
+    margin-top: 10px;
+    border-radius: 8px;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    
+}
+
