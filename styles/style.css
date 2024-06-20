@@ -70,3 +70,31 @@ hr{
     
 }
 
+.card-expe {
+   display:flex;
+   
+    
+}
+
+.icon-expe-1 {
+    height: 8rem;
+    width: 8rem;
+    border-radius: 1rem;
+    padding-top: 1rem;
+}
+ 
+.icon-expe-2 {
+    height: 8rem;
+    width: 8rem;
+    border-radius: 1rem;
+    padding-left: 1rem;
+    padding-top: 1rem;
+  
+}
+.icon-expe-3 {
+    height: 8rem;
+    width: 8rem;
+    border-radius: 1rem;
+    padding-top: 1rem;
+
+}
